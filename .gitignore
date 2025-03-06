@@ -1,0 +1,26 @@
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# Node.js & dependency files
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Editor & IDE files
+.idea/
+.vscode/
+*.swp
+
+# Logs & temp files
+*.log
+tmp/
+
+# Git & OS metadata
+*.bak
+*.orig
+*.lock
+
